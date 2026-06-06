@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>Training computer vision models to detect artificial pareidolia and improving interpretability with Grad‑CAM.<br><br>🌱 I’m currently learning  <br>Deep Learning models, model optimization and MLOps basics.<br><br>💬 I'm interested in  <br>Understanding why humans and neural networks both detect faces where none exist, and how this phenomenon can be modeled, measured, and visualized through deep‑learning methods.<br><br>⚡ Fun fact  <br>I love noticing patterns in everyday life and wondering whether a CNN would pick up the same ones.
+🔭 I’m currently working on  <br>AI-driven behavioral matchmaking in a group project to build a sophisticated plan recommender for families in a web/app we've just built<br><br>🌱 I’m currently learning  <br>Deep Learning models, model optimization and MLOps basics.<br><br>💬 I'm interested in  <br>Understanding why humans and neural networks both detect faces where none exist, and how this phenomenon can be modeled, measured, and visualized through deep‑learning methods.<br><br>⚡ Fun fact  <br>I love noticing patterns in everyday life and wondering whether a CNN would pick up the same ones.
 
 
 ## 🌐 Socials:
